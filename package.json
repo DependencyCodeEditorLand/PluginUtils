@@ -25,15 +25,15 @@
   },
   "homepage": "https://github.com/swc-project/plugin-utils#readme",
   "devDependencies": {
-    "@swc/core": "^1.16.1",
-    "@types/node": "^26.4.1",
-    "jest": "^30.5.1",
+    "@swc/core": "^1.16.20",
+    "@types/node": "^26.6.5",
+    "jest": "^30.5.2",
     "ts-node": "^10.9.2",
     "tslib": "^2.8.1",
     "typescript": "^7.0.2"
   },
   "peerDependencies": {
-    "@swc/core": "^1.16.1"
+    "@swc/core": "^1.16.20"
   },
   "dependencies": {}
 }
